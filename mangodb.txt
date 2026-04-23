@@ -10,3 +10,7 @@ mongodb+srv://desmodadegboye06_db_user:xGDmxKZgggLaTUQt@cluster0.2xwdapz.mongodb
 
 CONNECTING STRING PASSWORD:
 1QG9FjJseQSztloI
+
+
+CONNECTING STRING LINK:
+mongodb+srv://<db_username>:<db_password>@cluster0.unvngja.mongodb.net/?appName=Cluster0
