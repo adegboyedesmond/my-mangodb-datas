@@ -1,5 +1,8 @@
                                         USERNAME
 
 desmodadegboye06_db_user
-                                         PASSWORD
+                                        PASSWORD
 xGDmxKZgggLaTUQt
+                                          LINK
+
+mongodb+srv://desmodadegboye06_db_user:xGDmxKZgggLaTUQt@cluster0.2xwdapz.mongodb.net/?appName=Cluster0
